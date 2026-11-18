@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+# berkas mentah untuk membuat ulang data (lihat tools/)
+raw/
+*.sql
+*.zip
